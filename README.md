@@ -1,1 +1,3 @@
-sebuah website untuk menmberi ucapan pada teman
+sebuah website untuk menmberi ucapan ulang tahun pada teman
+
+teknologi : html,css,js
