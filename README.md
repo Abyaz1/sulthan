@@ -1,4 +1,4 @@
-khusus buat sulthan 
+dibuat untuk sulthan 
 
 sebuah website untuk menmberi ucapan ulang tahun pada teman
 
